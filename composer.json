@@ -26,11 +26,10 @@
         "issues": "https://github.com/sheadawson/silverstripe-shortcodable/issues"
     },
     "extra": {
-        "installer-name": "shortcodable",
         "expose": [
             "css",
             "images",
-            "javascript",
+            "javascript"
         ]
     },
     "homepage": "https://github.com/sheadawson/silverstripe-shortcodable"
